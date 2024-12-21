@@ -1201,11 +1201,16 @@ form label.error {
 figure {
 	margin: 0px;
 }
-.bg-img {
+/* .aboutbg-img{
+	background: url(../images/about\ bg1.jpg) 0 36% no-repeat;
+	-webkit-background-size:cover;
+	background-size:cover;
+} */
+/* .bg-img {
 	background: url(../images/bg_1.jpg) 0 36% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
-}
+} */
 .overlay-before:before {
 	background-color: rgba(0, 0, 0, 0.69);
 	left: 0;
