@@ -29,7 +29,7 @@
 
 	<!-- END HEADER -->
      <!-- Intro Section -->
-		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url(../images/about\ bg1.jpg)">
+		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url('assets/images/about bg1.jpg')">
 			<div class="container">
 				<div class="row title">
 					<div class="title_row">

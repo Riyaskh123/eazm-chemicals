@@ -55,19 +55,19 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav mobile-menu d-flex justify-content-between">
                         <li>
-                            <a href="#!">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                            <a href="#!">About us</a>
+                            <a href="about.php">About us</a>
                         </li>
                         <li>
-                            <a href="javascript:avoid(0);">Services</a>
+                            <a href="service.php">Services</a>
                         </li>
                         <li>
-                            <a href="javascript:avoid(0);">Products</a>
+                            <a href="product.php">Products</a>
                         </li>
                         <li>
-                            <a href="#!">Contact us</a>
+                            <a href="contactus.php">Contact us</a>
                         </li>
                     </ul>
                 </div>

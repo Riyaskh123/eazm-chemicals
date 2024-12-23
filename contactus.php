@@ -31,7 +31,7 @@
 
     
 		<!-- Intro Section -->
-		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url(../images/ContactUs-bg2.jpg);background-size: cover;">
+		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url('assets/images/ContactUs-bg2.jpg');background-size: cover;">
 			<div class="container">
 				<div class="row title">
 					<div class="title_row">
@@ -106,11 +106,8 @@
 									<li>
 										<div class="icon ion-ios-location"></div>
 										<div class="content">
-											<p>
-												123 Main Street, St. NW Ste,
-											</p>
-											<p>
-												1 Washington, DC,USA.
+											<p>					
+												Dubai,UAE
 											</p>
 										</div>
 									</li>
@@ -119,10 +116,7 @@
 										<div class="icon ion-android-call"></div>
 										<div class="content">
 											<p>
-												200 256 265 000
-											</p>
-											<p>
-												200 256 265 000
+												+971 52 341 7090
 											</p>
 										</div>
 									</li>
@@ -130,7 +124,7 @@
 										<div class="icon ion-ios-email"></div>
 										<div class="content">
 											<p>
-												Support@yourmail.com
+												info@eazmchemical.com
 											</p>
 											<p>
 												http://admin@.com
@@ -138,7 +132,7 @@
 										</div>
 									</li>
 								</ul>
-								<ul class="event-social">
+								<!-- <ul class="event-social">
 									<li>
 										<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 									</li>
@@ -157,21 +151,21 @@
 									<li>
 										<a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
 									</li>
-								</ul>
-							</div>
+								</ul> -->
+							<!-- </div>
 						</div>
 
 					</div>
-				</div>
+				</div> -->
 				<!-- Map Section -->
 
 			</section>
 			<!-- Map -->
-			<section class="map-box">
-				<div class="map">
+			<!-- <section class="map-box"> -->
+				<!-- <div class="map">
 					<div id="map"></div>
 				</div>
-			</section>
+			</section> -->
 			<!-- Contact Section -->
 			<!--End Contact-->
             

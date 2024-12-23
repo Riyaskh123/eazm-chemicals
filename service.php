@@ -31,7 +31,7 @@
 
     
 		<!-- Intro Section -->
-		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url(../images/service-bg.jpeg);background-size: cover;">
+		<section class="inner-intro light-color overlay-before parallax-background" style="background-image:url('assets/images/service-bg.jpeg');background-size: cover;">
 			<div class="container">
 				<div class="row title">
 					<div class="title_row">
