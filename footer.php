@@ -12,11 +12,11 @@
             <div class="col-md-6 col-lg-4 mt-xs-30 link_footer">
                 <h4>Quick Links</h4>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Products</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="./">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="service.php">Services</a></li>
+                    <li><a href="product.php">Products</a></li>
+                    <li><a href="contactus.php">Contact Us</a></li>
                 </ul>
             </div>
 
@@ -24,7 +24,7 @@
                 <h4>Contact Us</h4>
                 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Dubai, UAE</p>
                 <p><i class="fa fa-phone" aria-hidden="true"></i> +971 52 341 7090</p>
-                <p><i class="fa fa-envelope" aria-hidden="true"></i> info@eazmchemical.com</p>
+                <p><i class="fa fa-envelope" aria-hidden="true"></i> info@eazmchemicals.com</p>
             </div>
         </div>
     </div>

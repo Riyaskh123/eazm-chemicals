@@ -1,3 +1,6 @@
+<?php
+$page = "contact";
+?>
 <!DOCTYPE html>
 <html lang="en">
     
@@ -124,10 +127,10 @@
 										<div class="icon ion-ios-email"></div>
 										<div class="content">
 											<p>
-												info@eazmchemical.com
+												info@eazmchemicals.com
 											</p>
 											<p>
-												http://admin@.com
+												sales@eazmchemicals.com
 											</p>
 										</div>
 									</li>

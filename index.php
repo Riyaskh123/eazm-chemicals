@@ -1,3 +1,6 @@
+<?php 
+$page = "home";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -238,7 +241,7 @@
 
 				<div class="col-md-12">
 					<div class="d-flex row p-2">	
-						<div class="service_box col-sm-12 col-md-3">
+						<div class="service_box col-sm-12 col-md-4">
 							<figure> 
 								<!-- <img src="assets/images/service/custom_packing.jpg" alt="Custom Packing" /> -->
 							</figure>
@@ -249,7 +252,7 @@
 							</p>
 						</div>
 
-						<div class="service_box col-sm-12 col-md-3">
+						<div class="service_box col-sm-12 col-md-4">
 							<figure>
 								<!-- <img src="assets/images/service/chemical_distribution.jpg"
 									alt="Chemical Distribution" /> -->
@@ -261,7 +264,7 @@
 							</p>
 						</div>
 
-						<div class="service_box col-sm-12 col-md-3">
+						<div class="service_box col-sm-12 col-md-4">
 							<figure>
 								<!-- <img src="assets/images/service/export_import.jpg" alt="Export Import Services" /> -->
 							</figure>
@@ -272,7 +275,7 @@
 							</p>
 						</div>
 
-						<div class="service_box col-sm-12 col-md-3">
+						<div class="service_box col-sm-12 col-md-6">
 							<figure>
 								<!-- <img src="assets/images/service/technical_services.jpg" alt="Technical Services" /> -->
 							</figure>
@@ -280,6 +283,16 @@
 							<p>
 								Expert technical support and consultation to optimize your chemical processes and ensure
 								compliance.
+							</p>
+						</div>
+
+						<div class="service_box col-sm-12 col-md-6">
+							<figure>
+								<!-- <img src="assets/images/service/technical_services.jpg" alt="Technical Services" /> -->
+							</figure>
+							<h3><a href="#">R & D</a></h3>
+							<p>
+								Custom formulation to meet your specific needs, ensuring the highest quality and performance.
 							</p>
 						</div>
 					</div>

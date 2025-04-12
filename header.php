@@ -35,7 +35,7 @@
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 <p>
                                     Mail Us
-                                    <span> <a href="mailto:ample@mail.com">info@eazmchemical.com</a> </span>
+                                    <span> <a href="mailto:ample@mail.com">info@eazmchemicals.com</a> </span>
                                 </p>
                             </li>
                         </ul>
@@ -54,19 +54,19 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav mobile-menu d-flex justify-content-between">
-                        <li>
+                        <li <?php echo $page == "home" ?  'class="active"' :''; ?>>
                             <a href="index.php">Home</a>
                         </li>
-                        <li>
+                        <li <?php echo $page == "about" ?  'class="active"' :''; ?>>
                             <a href="about.php">About us</a>
                         </li>
-                        <li>
+                        <li <?php echo $page == "service" ?  'class="active"' :''; ?>>
                             <a href="service.php">Services</a>
                         </li>
-                        <li>
+                        <li <?php echo $page == "product" ?  'class="active"' :''; ?>>
                             <a href="product.php">Products</a>
                         </li>
-                        <li>
+                        <li <?php echo $page == "contact" ?  'class="active"' :''; ?>>
                             <a href="contactus.php">Contact us</a>
                         </li>
                     </ul>

@@ -20,9 +20,9 @@ nav.navbar.bootsnav ul.nav > li > a {
 	margin-bottom: -2px;
 }
 
-nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover, nav.navbar.bootsnav ul.nav li.megamenu-fw > a:focus, nav.navbar.bootsnav ul.nav li.active > a:hover, nav.navbar.bootsnav ul.nav li.active > a:focus, nav.navbar.bootsnav ul.nav li.active > a {
+/* nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover, nav.navbar.bootsnav ul.nav li.megamenu-fw > a:focus, nav.navbar.bootsnav ul.nav li.active > a:hover, nav.navbar.bootsnav ul.nav li.active > a:focus, nav.navbar.bootsnav ul.nav li.active > a {
 	background-color: transparent;
-}
+} */
 
 .navbar-header .navbar-toggle {
     background-color: transparent;
@@ -942,6 +942,14 @@ nav.navbar.bootsnav ul.nav > li > a {
 	font-size: 15px;
 	padding: 20px 33px;
 	display: block;
+}
+nav.navbar.bootsnav ul.nav > li > a:hover {
+	background: #fff  none repeat scroll 0 0;
+	color: #1C776E;
+}
+nav.navbar.bootsnav ul.nav > li.active > a {
+	background: #fff  none repeat scroll 0 0;
+	color: #1C776E;
 }
 
 nav.navbar.bootsnav ul.nav > li > a.custom-btn {

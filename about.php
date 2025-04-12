@@ -1,3 +1,6 @@
+<?php
+$page = "about";
+?>
 <!DOCTYPE html>
 <html lang="en">
     

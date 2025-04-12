@@ -1,3 +1,6 @@
+<?php 
+$page = "product";
+?>
 <!DOCTYPE html>
 <html lang="en">
     
